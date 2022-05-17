@@ -14,4 +14,4 @@ Prioriteret liste af krav i form af user stories:
 Update:
 Opfyldte krav: 1, 2 og 3
 
-Youtube link med præsentation af appen: 
+Youtube link med præsentation af appen: https://youtu.be/16mZyoY-qjo
